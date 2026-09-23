@@ -89,5 +89,5 @@ The working model demonstrates password entry through the keypad and automatic m
 
 **13\. Project Images**
 
-\[Paste the completed project photos here\]
+![image alt](https://github.com/OvieyaThirupathi/Password-based-door-lock-using-keypad-and-servo-motor/blob/81faba6bcb2d93665953124076ddef7fab3beef0/key%20w.jpeg)
 
