@@ -85,7 +85,7 @@ The working model demonstrates password entry through the keypad and automatic m
 
 **12\. Circuit Diagram**
 
-\[Paste the Keypad \+ Arduino \+ Servo Motor circuit diagram here\]
+![iamge alt](https://github.com/OvieyaThirupathi/Password-based-door-lock-using-keypad-and-servo-motor/blob/77cdb33ae278aa391094fc0199860bf30ad683a7/WhatsApp%20Image%202026-09-23%20at%209.38.27%20PM.jpeg)
 
 **13\. Project Images**
 
